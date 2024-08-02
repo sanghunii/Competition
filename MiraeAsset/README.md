@@ -1,6 +1,9 @@
 # MiraeAsset_Competition_Model
 
 
+# 0. Title : Customized AI Reporter Service based on LLM targeting small-cap stocks 
+
+
 
 
 # 1. Service proposal background
