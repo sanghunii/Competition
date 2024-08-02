@@ -1,1 +1,50 @@
-# 2024MiraeAsset AI/BigData festival
+# MiraeAsset_Competition_Model
+
+
+
+
+# 1. Service proposal background
+
+* Ordinary individual investors who only made stable investments that followed the existing market index cannot easily take on the challenge of more aggressive investment through small-cap investment. 
+      -> When it comes to small-cap stocks, companies ranked 301st or lower in market capitalization in the Korean market are called small-cap stocks.
+
+
+
+* There is several reasons
+  
+-> Small-cap stocks have less absolute information than large-cap stocks.
+
+-> In addition, this information is scattered sporadically on the Internet like a dot organization.
+
+-> Most individual investors do not invest in stocks as their main job, but instead have a separate job to make a living.
+
+-> Therefore, investors who want to invest in small-cap stocks must collect and organize this information to be able to objectively judge the company, but              this process itself is quite burdensome for ordinary individual investors who have a separate main business.
+
+
+
+* Therefore, we designed a service that provides comprehensive information on small stock stocks scattered sporadically on the Internet.
+
+
+
+
+# 2. How to execute
+
+    1. Get the API_KEY from the website.
+    
+    2. Register your payment method on billing section where website
+    
+    3. Put your API_KEY on .env file
+    
+    4. Compile finance_chatbot.py
+    
+    5. At first, a predetermined question form is created and passed to the model, and an answer is generated accordingly.
+        -> To ensure that even people with no knowledge of stocks or the relevant items receive basic answers with some quality
+        
+    6. Ask additional question and receive answer.
+    
+    7. If you put only '#' on prompt, conversation is end.
+
+
+
+# 3. If you Execute Model with out register billing method
+    -> You can have a conversation, but the model returns the user's question as is, rather than an answer to the user's question.
