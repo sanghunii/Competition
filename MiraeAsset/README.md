@@ -29,22 +29,23 @@
 
 # 2. How to execute
 
-    1. Get the API_KEY from the website.
+1. Get the API_KEY from the website.
     
-    2. Register your payment method on billing section where website
+2. Register your payment method on billing section where website
     
-    3. Put your API_KEY on .env file
+3. Put your API_KEY on .env file
     
-    4. Compile finance_chatbot.py
+4. Compile finance_chatbot.py
     
-    5. At first, a predetermined question form is created and passed to the model, and an answer is generated accordingly.
+5. At first, a predetermined question form is created and passed to the model, and an answer is generated accordingly.
         -> To ensure that even people with no knowledge of stocks or the relevant items receive basic answers with some quality
         
-    6. Ask additional question and receive answer.
+6. Ask additional question and receive answer.
     
-    7. If you put only '#' on prompt, conversation is end.
+7. If you put only '#' on prompt, conversation is end.
 
 
 
 # 3. If you Execute Model with out register billing method
-    -> You can have a conversation, but the model returns the user's question as is, rather than an answer to the user's question.
+
+-> You can have a conversation, but the model returns the user's question as is, rather than an answer to the user's question.
