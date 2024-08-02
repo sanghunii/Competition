@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "doc_no": "paper100009",
+    "domain": "금융",
+    "category": "학술논문",
+    "license": "open",
+    "source_language": "ko"
+  },
+  "doc_info": {
+    "source": "한국공인회계사회",
+    "journal_name": "회계ㆍ세무와 감사 연구",
+    "vol_info": "2007, vol.,no.45, pp. 237-276 (40 pages)",
+    "doi": "10.22781/kicpa.2007..45.237",
+    "title": "내부감사부서의 특성과 외부감사노력과의 관련성에 대한 연구",
+    "date": 202206
+  },
+  "sents": [
+    {
+      "page": 17,
+      "sn": "paper100009sent986796",
+      "source_original": "또한, 가설 3을 검증하기 위해 감사위원회의 특성(독립성, 전문성, 활동성)을 선행연구들을 참고하여 상위25% 내 포함된 기업을 1, 그렇지 않은 기업을 0으로 보고 각 특성별 점수를 취 합해 감사위원회의 품질(우수, 미흡)을 평가하였다."
+    },
+    {
+      "page": 17,
+      "sn": "paper100009sent986797",
+      "source_original": "이러한 변수(AC_HIGH)에 기존 가설 2에서"
+    }
+  ]
+}
