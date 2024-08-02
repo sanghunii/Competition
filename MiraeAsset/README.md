@@ -9,7 +9,8 @@
 # 1. Service proposal background
 
 * Ordinary individual investors who only made stable investments that followed the existing market index cannot easily take on the challenge of more aggressive investment through small-cap investment. 
-      -> When it comes to small-cap stocks, companies ranked 301st or lower in market capitalization in the Korean market are called small-cap stocks.
+      
+  -> When it comes to small-cap stocks, companies ranked 301st or lower in market capitalization in the Korean market are called small-cap stocks.
 
 
 
