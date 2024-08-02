@@ -49,7 +49,7 @@
 
 # 3. If you Execute Model with out register billing method
 
--> You can have a conversation, but the model returns the user's question as is, rather than an answer to the user's question.
+- You can have a conversation, but the model returns the user's question as is, rather than an answer to the user's question.
 
 
 
