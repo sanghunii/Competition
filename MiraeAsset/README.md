@@ -38,7 +38,7 @@
 
 3. Create .env file on working directory
     
-4. Put your API_KEY on .env file / _Form : API_KEY = YOUR_API_KEY_
+4. Put your API_KEY on .env file / Form : _API_KEY = YOUR_API_KEY___
     
 5. Compile finance_chatbot.py
     
