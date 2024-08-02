@@ -57,3 +57,9 @@
 
 - We use financial report and financial thesis for making finance domain specializing model.
 - Datasets are supplied by _AI_HUB_ https://www.aihub.or.kr
+- Datasets folder must be located in the same working directory as model code files. (See Below)
+
+        << data file path example >>
+
+            -> directory_that_locate_modelcodes/datasets/finance_thesis/finance_thesis_file
+              -> 
