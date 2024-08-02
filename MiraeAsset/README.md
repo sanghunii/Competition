@@ -38,11 +38,12 @@
 4. Compile finance_chatbot.py
     
 5. At first, a predetermined question form is created and passed to the model, and an answer is generated accordingly.
-        -> To ensure that even people with no knowledge of stocks or the relevant items receive basic answers with some quality
+
+   -> To ensure that even people with no knowledge of stocks or the relevant items receive basic answers with some quality
         
-6. Ask additional question and receive answer.
+7. Ask additional question and receive answer.
     
-7. If you put only '#' on prompt, conversation is end.
+8. If you put only '#' on prompt, conversation is end.
 
 
 
