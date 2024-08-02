@@ -35,12 +35,14 @@
 1. Get the API_KEY from the website.
     
 2. Register your payment method on billing section where website
+
+3. Create .env file on working directory
     
-3. Put your API_KEY on .env file
+4. Put your API_KEY on .env file / _Form : API_KEY = YOUR_API_KEY_
     
-4. Compile finance_chatbot.py
+5. Compile finance_chatbot.py
     
-5. At first, a predetermined question form is created and passed to the model, and an answer is generated accordingly.
+6. At first, a predetermined question form is created and passed to the model, and an answer is generated accordingly.
 
    -> To ensure that even people with no knowledge of stocks or the relevant items receive basic answers with some quality
         
