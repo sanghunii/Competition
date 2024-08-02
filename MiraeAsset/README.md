@@ -50,3 +50,10 @@
 # 3. If you Execute Model with out register billing method
 
 -> You can have a conversation, but the model returns the user's question as is, rather than an answer to the user's question.
+
+
+
+# 4. Datasets
+
+- We use financial report and financial thesis for making finance domain specializing model.
+- Datasets are supplied by _AI_HUB_ https://www.aihub.or.kr
