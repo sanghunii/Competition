@@ -1,0 +1,24 @@
+####require
+openai
+python -env
+time
+my_module_
+
+
+
+#####prior preparation
+1. OpenAI 홈페이지에서 API_KEY발급받기
+2. OpenAI -> your profile -> billing -> 카드등록
+3. 작업 디렉토리에 .env파일 생성 하고 본인 API_KEY기입.
+
+
+
+
+
+** Prepare the file you want to train the model on.
+1. company finance statement sheet (DART API)
+2. finance domain data (AIhub)
+3. Recently News/blog/web document data to reflect the company’s latest news
+
+단, 3번은 법적(저작권 등)문제 때문에 해당 모델에서는 포함 시키지 않았다.
+-> naver검색 API를 이용해서 최신 뉴스들에 대한 정보를 가져오고 각 본문들을 크롤링해 가져오려고 했으나 저작권 문제가 있을 수도 있어서 일단 제외 하였다. 
