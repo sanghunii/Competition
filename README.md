@@ -1,1 +1,1 @@
-# Competiton codes
+# Codes for competition
